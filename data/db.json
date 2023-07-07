@@ -1,0 +1,99 @@
+{
+    "skills" : [
+        {
+            "id": 1,
+            "name": "HTML",
+            "image": "https://i.postimg.cc/7LY6sxZZ/what-is-html.webp",
+            "rate": "70%"
+        },
+        {
+            "id": 2,
+            "name": "CSS",
+            "image": "https://i.postimg.cc/g0TYg87g/css-image.jpg",
+            "rate": "85%"
+        },
+        {
+            "id": 3,
+            "name": "Bootstrap",
+            "image": "https://i.postimg.cc/L5SGDsmy/bootstrap-icons.png",
+            "rate": "85%"
+        },
+        {
+            "id": 4,
+            "name": "Javascript",
+            "image": "https://i.postimg.cc/QCQK16xB/Java-Script-Logo.png",
+            "rate": "45%"
+        }
+    ],
+
+    "education" : [
+        {
+            "id": 5,
+            "years": "2016 - 2020",
+            "institution": "Zisukhanyo Secondary school",
+            "image": "https://i.postimg.cc/3w1w5nKh/Zisukhanyo.jpg"
+        },
+        {
+            "id": 6,
+            "years": "2021 - 2022",
+            "institution": "University of Cape Town",
+            "image": "https://i.postimg.cc/50mKmQqn/UCT.jpg"
+        }
+    ],
+
+    "projects" : [
+        {
+            "id": 7,
+            "name": "Portfolio",
+            "image": "https://i.postimg.cc/pLCpx99H/IMG-20200928-WA0082-1-removebg-preview.png"
+        },
+        {
+            "id": 8,
+            "name": "Horimiya",
+            "image": "https://i.postimg.cc/hj9Lg8Q0/893ad4acfe30f86f2a181a73f196ad32.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Class-list",
+            "image": "https://i.postimg.cc/7LY6sxZZ/what-is-html.webp"
+        },
+        {
+            "id": 9,
+            "name": "A's Records",
+            "image": "https://i.postimg.cc/j2w7LQ3j/aziz-1-720.png"
+        }
+    ],
+
+    "testimonials" : [
+        {
+            "id": 10,
+            "name": "Samkelo Mpokela",
+            "testimony": "He made progress quickly and remained extremely determined through the month. He completes his practice exercises. I really admire him for the active role he took in his studies. He had a goal and he didn't lose sight of it, not even once. he always showes up to his classes, and he really impressed me with his progress. ~",
+            "image": "https://i.postimg.cc/WbqV9BnP/C12-Samkelo-Mpokela-Class1-2.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Xola Bangaza",
+            "testimony": "Azinisikhona is a very nice guy, he is humble and respectful, he is a bit shy but it's very nice and fun being around him. ~",
+            "image": "https://i.postimg.cc/ZKmg30q2/IMG-20230428-WA0009.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Sisipho Pepengweni",
+            "testimony": "Azinisikhona is a professional young man who takes pride in his work. He finds pleasure in assisting his fellow colleagues with their shortcomings. He is attentive and precise when it comes to his work and as a result I would recommend him for any web development project.~",
+            "image": "https://i.postimg.cc/K8x2ZJLK/IMG-3453.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Liyabona Mxhalisa",
+            "testimony": "Azi is an exceptional professional who consistently goes above and beyond in their work. They have a great eye for detail, excellent communication skills, and always strive to deliver high-quality results. I am honored to work alongside them and I have no doubt that they will continue to excel in their career.~",
+            "image": "https://i.postimg.cc/ZKJ36hzV/C12-Liyabona-Mxhalis-1.jpg"
+        },
+        {
+            "id": 14,
+            "name": "John-Bruce Noad",
+            "testimony": "I highly recommend Azinisikhona for any web development projects. Their exceptional skills, dedication, and eagerness to learn are truly impressive. He have a eye for design, a deep understanding of programming languages, and an ability to solve complex problems efficiently. Their commitment to meeting deadlines and the work they put towards achieving their results is outstanding. Working with Aziz was a pleasure, and I have no doubt that they will thrive in their future endeavors as a professional web developer. I wholeheartedly endorse them for any web development opportunities! ~",
+            "image": "https://i.postimg.cc/DwXXTfrf/john-bruce-noad-portfolio-photo.jpg"
+        }
+    ]
+}
