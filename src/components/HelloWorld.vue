@@ -20,7 +20,7 @@ export default {
 <style scoped>
 .plz-work {
   height: 100vh;
-  background-image: url(https://i.postimg.cc/HxcF47bG/home.jpg);
+  background-image: url(https://i.postimg.cc/cJz9jdJ0/keyboard-background-z7fm47jyvkt01937.jpg);
   /* background-repeat: no-repeat; */
   background-size: cover;
 }
